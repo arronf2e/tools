@@ -1,0 +1,14 @@
+{
+  "name": "web3-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gevm": "node generate_evm_address.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.10.0"
+  }
+}
